@@ -1,6 +1,9 @@
 # Movie Fight
 A game that compares different movies, the movie with the biggest numbers wins!
 
+# Live site
+https://vickicodes.github.io/moviefight/
+
 # Motivation
 This was an exercise in getting additional practice with API's and using Axios.
 
